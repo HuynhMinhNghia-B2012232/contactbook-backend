@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "nodemon server.js"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com-edu:HuynhMinhNghia-B2012232/contactbook-backend.git"
